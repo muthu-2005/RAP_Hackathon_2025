@@ -26,6 +26,7 @@ It provides options to **sort trains by price** or **departure time**, helping u
 ## 📷 Screenshots  
 
 <img width="1899" height="907" alt="Image" src="https://github.com/user-attachments/assets/ef021a18-88fe-4aa2-a1dd-a5f4a2801511" />
+
 ---
 
 ## ⚙️ Installation & Setup
